@@ -1,0 +1,4 @@
+﻿Coloque aqui as imagens dos produtos.
+O nome do arquivo e o ID do produto (veja docs/lista_imagens_produtos.md), por exemplo: 1.jpg, 15.png, 46.webp
+Formatos aceitos: jpg, jpeg, png, webp. Tamanho recomendado: 800 x 600 px (4:3).
+Produtos sem imagem exibem automaticamente o icone da plataforma.
